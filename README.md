@@ -1,2 +1,3 @@
-# Simple-dice-game
-## simpledice00.netlify.app
+# Simple dice game using JavaScript
+
+## 🎲 simpledice00.netlify.app
